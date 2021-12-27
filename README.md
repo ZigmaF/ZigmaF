@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I'm a student @NTNU, [Digital infrastructure and Cybersecurity](https://www.ntnu.no/studier/bdigsec), Trondheim.
 
@@ -6,9 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZigmaF&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-### LinkedIn
-Connect with me on [LinkedIn](https://www.linkedin.com/in/erlingfladvad/)
-
 ![](https://komarev.com/ghpvc/?username=ZigmaF)
+
+##
+### LinkedIn 🤝
+Connect with me on [LinkedIn](https://www.linkedin.com/in/erlingfladvad/)
